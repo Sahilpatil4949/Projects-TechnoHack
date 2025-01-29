@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice the Alarm Clock</string>
+    <string name="header">Alarm</string>
+    <string name="NoAlarms">No Alarm Yet</string>
+    <string name="About">About</string>
+    <string name="WakeUp">Your LIFE.exe ran into a problem and needs you to \nWAKE UP!</string>
+    <string name="stopCode">Stop sleeping code: GET_OUT_OF_BED</string>
+
+    <string name="keimeno">-Author \n-Pranit Patil</string>
+
+</resources>
